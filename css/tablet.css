@@ -1,0 +1,19 @@
+.main-tables-container{
+    display: grid;
+    grid-template-columns: repeat(2, 235px);
+    justify-content: center;
+    gap: 40px;
+    margin-top: 60px;
+}
+
+.product-cards--container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.plans-container--slider{
+   
+    justify-content: center;
+    overflow-x: initial;
+}
+
